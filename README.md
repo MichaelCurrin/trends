@@ -1,2 +1,2 @@
-# trends
-Timeseries dashboard of trends around web searches and economic indicators
+# Trends
+> Timeseries dashboard of trends around web searches, social media and economic indicators
