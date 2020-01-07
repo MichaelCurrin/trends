@@ -18,6 +18,7 @@ plugins:
 
 header_pages:
   - "showcase.md"
+  - "blog.md"
 
 exclude:
   - vendor/
