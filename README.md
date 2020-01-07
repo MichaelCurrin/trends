@@ -1,6 +1,9 @@
 # Trends
 > Time series dashboard of trends around web searches, social media and economic indicators.
 
+[![Made with Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-blue.svg)](https://jekyllrb.com)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/trends/blob/master/LICENSE)
+
 ## Google Trends
 
 Use the UI on website to do searches. Choose a "search term" phrase or a topic from the droplist. Up to items can be added.
