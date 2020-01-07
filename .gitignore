@@ -1,0 +1,9 @@
+# Generated output.
+_site/
+.sass-cache/
+
+# Gem files.
+vendor/
+.bundle/
+
+.jekyll-metadata
