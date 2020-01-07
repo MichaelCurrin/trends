@@ -1,0 +1,28 @@
+### Site metadata ###
+
+title: Trends
+
+description: >-
+  Time series dashboard of trends around web searches, social media and economic indicators.
+github_username: MichaelCurrin
+
+### Build settings ###
+
+baseurl: "/trends"
+url: ""
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - "showcase.md"
+
+exclude:
+  - vendor/
+  - LICENSE
+  - Makefile
+  - README.md
+  - Gemfile
+  - Gemfile.lock
