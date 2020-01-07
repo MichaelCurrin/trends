@@ -9,7 +9,7 @@ Use the UI on website to do searches. Choose a "search term" phrase or a topic f
 
 ### Templates
 
-Example UI URL create searches. This is a good starting point for new searches - set to worldwide and 5 years lookback.
+Starting point to do searches using the UI. This has been set to worldwide and 5 years.
 
 - https://trends.google.com/trends/explore?date=today%205-y&q=foo
 
