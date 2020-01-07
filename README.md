@@ -13,7 +13,7 @@ Starting point to do searches using the UI. This has been set to worldwide and 5
 
 - https://trends.google.com/trends/explore?date=today%205-y&q=foo
 
-Example of embedded data snippet. Note this consists of two scripts when copy and pasted - one for the loader and one with the actual parameters.
+Example of embedded data snippet for "Interest over Time" widget. Note that each consists of two scripts when copy and pasted - one for the loader library and one with the actual parameters.
 
 - Keep data updated with lookback from today. e.g. `today 5-y`
     ```javascript
