@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Science"
+title:  "Data Science jobs"
 ---
 
 Data Science job titles 2018 - 2019
