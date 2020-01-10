@@ -4,13 +4,17 @@
 [![Made with Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-blue.svg)](https://jekyllrb.com)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/trends/blob/master/LICENSE)
 
-## Google Trends
+- Project website: [michaelcurrin.github.io/trends/](https://michaelcurrin.github.io/trends/)
+
+## Data sources
+
+### Google Trends
 
 Use the UI on website to do searches. Choose a "search term" phrase or a topic from the droplist. Up to items can be added.
 
 - Google Trends webpage - https://trends.google.com/
 
-### Search
+#### Search
 
 This URL is a good starting point to do searches using the Google Trend interface. This has been set to worldwide and 5 years. 
 
@@ -18,7 +22,7 @@ This URL is a good starting point to do searches using the Google Trend interfac
 
 Edit the existing term and use up to 5 terms at once. Where possible, select a concept rather than a search term (plain text), as the concept can mix together terms based on context. e.g. "frozen" is generic, but "Frozen" "The Film" will exclude frozen foods.
 
-### Embedding
+#### Embedding
 
 If a friend sets up a view and sends me the URL as above, then I create a new post on the site using the Google Trends JS snippet available for graphs on the Google Trends interface.
 
