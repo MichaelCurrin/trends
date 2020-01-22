@@ -16,17 +16,20 @@ Use the UI on website to do searches. Choose a "search term" phrase or a topic f
 
 #### Search
 
-This URL is a good starting point to do searches using the Google Trend interface. This has been set to worldwide and 5 years. 
+How to do a search on Google Trends and share your results.
 
-- https://trends.google.com/trends/explore?date=today%205-y&q=foo
-
-Edit the existing term and use up to 5 terms at once. Where possible, select a concept rather than a search term (plain text), as the concept can mix together terms based on context. e.g. "frozen" is generic, but "Frozen" "The Film" will exclude frozen foods.
+1. This URL is a good starting point to do searches using the Google Trend interface. This has been set to Worldwide and 5 years. https://trends.google.com/trends/explore?date=today%205-y&q=foo
+1. Now edit the existing term and any more if relevant. You can set to 5 terms at once. Where possible, select a concept rather than a search term (plain text), as the concept can mix together terms based on context. e.g. "frozen" is generic, but "Frozen" "The Film" will exclude frozen foods.
+1. Optionally update the location such as from Worldwide to South Africa, or United States.
+1. Optionally set the date range to longer or shorter, or a fixed date.
+1. Copy the URL in the address bar.
+1. Send the URL to someone so they can see the same view as you. If I've asked you to help contribute to this project, send me that URL.
 
 #### Embedding
 
-If a friend sets up a view and sends me the URL as above, then I create a new post on the site using the Google Trends JS snippet available for graphs on the Google Trends interface.
+After I have a created a search or someone has sent me a URL, then I pick a widget and click the code button to get a JS snippet. I then  add them to my Trends website.
 
-Example of embedded data snippet for "Interest over Time" widget. Note that each consists of two scripts when copy and pasted - one for the loader library and one with the actual parameters.
+See below for a example of embedded data snippet for "Interest over Time" widget. Note that each consists of two scripts when copy and pasted - one for the loader library and one with the actual parameters.
 
 - Keep data updated with a look-back period from today. e.g. `today 5-y`
     ```javascript
