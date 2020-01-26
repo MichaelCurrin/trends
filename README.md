@@ -2,6 +2,7 @@
 > Time series dashboard of trends around web searches, social media and economic indicators.
 
 [![Made with Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-blue.svg)](https://jekyllrb.com)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/trends.svg)](https://GitHub.com/MichaelCurrin/trends/tags/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/trends/blob/master/LICENSE)
 
 - Project website: [michaelcurrin.github.io/trends/](https://michaelcurrin.github.io/trends/)
