@@ -13,15 +13,16 @@
 
 Use the UI on website to do searches. Choose a "search term" phrase or a topic from the droplist. Up to items can be added.
 
-- Google Trends webpage - https://trends.google.com/
+- Google Trends home - [trends.google.com/](https://trends.google.com/)
 
 #### Search
 
 How to do a search on Google Trends and share your results.
 
 1. Start with a template search.
-    - This URL is a good starting point to do searches using the Google Trend interface.  https://trends.google.com/trends/explore?date=today%205-y&q=foo
-    -  I've set this to Worldwide, last 5 years and a search for the term "foo".
+    - This URL is a good starting point to do searches using the Google Trend interface.
+        - [trends.google.com/trends/explore?date=today%205-y&q=foo](https://trends.google.com/trends/explore?date=today%205-y&q=foo)
+    - I've set this to Worldwide, last 5 years and a search for the term "foo".
 1. Now edit the existing term and any more if relevant. You can set to 5 terms at once. Where possible, select a concept rather than a search term (plain text), as the concept can mix together terms based on context. e.g. "frozen" is generic, but "Frozen" "The Film" will exclude frozen foods.
 1. Optionally update the location such as from Worldwide to South Africa, or United States.
 1. Optionally set the date range to longer or shorter, or a fixed date.
