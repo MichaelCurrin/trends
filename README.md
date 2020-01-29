@@ -20,12 +20,13 @@ Use the UI on website to do searches. Choose a "search term" phrase or a topic f
 How to do a search on Google Trends and share your results.
 
 1. Start with a template search.
-    - This URL is a good starting point to do searches using the Google Trend interface.
-        - [trends.google.com/trends/explore?date=today%205-y&q=foo](https://trends.google.com/trends/explore?date=today%205-y&q=foo)
-    - I've set this to Worldwide, last 5 years and a search for the term "foo".
-1. Now edit the existing term and any more if relevant. You can set to 5 terms at once. Where possible, select a concept rather than a search term (plain text), as the concept can mix together terms based on context. e.g. "frozen" is generic, but "Frozen" "The Film" will exclude frozen foods.
-1. Optionally update the location such as from Worldwide to South Africa, or United States.
-1. Optionally set the date range to longer or shorter, or a fixed date.
+    - [trends.google.com/trends/explore?date=today%205-y&q=foo](https://trends.google.com/trends/explore?date=today%205-y&q=foo)
+    - This URL is a good starting point to do searches using the Google Trend interface. I've set this to Worldwide, last 5 years and a search for the placeholder term "foo".
+1. Edit the existing term anda add any more if relevant. You can set to 5 terms at once. Where possible, select a concept rather than a search term (plain text), as the concept can mix together terms based on context. e.g. "frozen" is generic, but "Frozen" "The Film" will exclude frozen foods. Extra words can help - "blues" is limited but "blues music" let's you pick "Blues (genre)" as a topic.
+1. Optionally upate these:
+    - Location e.g. United States, Texas, South Africa, Western Cape.
+    - Date range - longer or shorter period, or a fixed period.
+    - Category. This can be useful to avoid noise in search terms - "blues" means something different in art, music and emotions.
 1. Copy the URL in the address bar.
 1. Send the URL to someone so they can see the same view as you. If I've asked you to help contribute to this project, send me that URL.
 
