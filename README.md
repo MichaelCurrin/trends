@@ -7,32 +7,45 @@
 
 - Project website: [michaelcurrin.github.io/trends/](https://michaelcurrin.github.io/trends/)
 
+## Contribute
+
+### Add Google Trends
+
+Follow the [Google Trends](#google-trends) section below to do a search. Then send the URL from the address bar to me so I can tweak it and then embed graphs as a post.
+
+<!-- TODO For future development, this will be easier to do using Pull Requests and a CMS. -->
+
 ## Data sources
 
 ### Google Trends
 
-Use the UI on website to do searches. Choose a "search term" phrase or a topic from the droplist. Up to items can be added.
+Use the UI on website to do searches. Choose a "search term" phrase or a topic from the droplist. Up to 5 items can be added.
 
 - Google Trends home - [trends.google.com/](https://trends.google.com/)
 
-#### Search
+Help page on sharing Google Trends searches and embedding:
 
-How to do a search on Google Trends and share your results.
+- [Export, embed, and cite Trends data](https://support.google.com/trends/answer/4365538?hl=en)
+
+#### Do a search
 
 1. Start with a template search.
     - [trends.google.com/trends/explore?date=today%205-y&q=foo](https://trends.google.com/trends/explore?date=today%205-y&q=foo)
     - This URL is a good starting point to do searches using the Google Trend interface. I've set this to Worldwide, last 5 years and a search for the placeholder term "foo".
-1. Edit the existing term anda add any more if relevant. You can set to 5 terms at once. Where possible, select a concept rather than a search term (plain text), as the concept can mix together terms based on context. e.g. "frozen" is generic, but "Frozen" "The Film" will exclude frozen foods. Extra words can help - "blues" is limited but "blues music" let's you pick "Blues (genre)" as a topic.
+1. Edit the existing term and add any more if relevant. You can set to 5 terms at once. Where possible, select a concept rather than a search term (plain text), as the concept can mix together terms based on context. e.g. "frozen" is generic, but "Frozen" "The Film" will exclude frozen foods. Extra words can help - "blues" is limited but "blues music" let's you pick "Blues (genre)" as a topic.
 1. Optionally upate these:
     - Location e.g. United States, Texas, South Africa, Western Cape.
     - Date range - longer or shorter period, or a fixed period.
     - Category. This can be useful to avoid noise in search terms - "blues" means something different in art, music and emotions.
+
+#### Share search results
+
 1. Copy the URL in the address bar.
 1. Send the URL to someone so they can see the same view as you. If I've asked you to help contribute to this project, send me that URL.
 
 #### Embedding
 
-After I have a created a search or someone has sent me a URL, then I pick a widget and click the code button to get a JS snippet. I then  add them to my Trends website.
+After I have a created a search or someone has sent me a URL, then I pick a widget and click the code button to get a JS snippet. I then add them to my Trends website.
 
 See below for a example of embedded data snippet for "Interest over Time" widget. Note that each consists of two scripts when copy and pasted - one for the loader library and one with the actual parameters.
 
