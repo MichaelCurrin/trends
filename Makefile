@@ -9,6 +9,10 @@ upgrade:
 	bundle update
 
 
+# Serve on the root without using livereload (as this conflicts with the Jekyll Manager plugin).
+a admin:
+	bundle exec jekyll serve --baseurl ''
+
 # Serve on subpath, as on Github Pages project site.
 s serve:
 	bundle exec jekyll serve --livereload
