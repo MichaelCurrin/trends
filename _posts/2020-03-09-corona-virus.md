@@ -14,10 +14,12 @@ This post covers:
 
 ## About
 
+### Resources
+
 - [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) on Wikipedia.
 - [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) on Wikipedia.
 
-### Visualizations of the coronvirus
+### Visualizations about the coronvirus
 
 A collection of charts about the coronavirus, not related to Google Trends.
 
@@ -26,7 +28,6 @@ A collection of charts about the coronavirus, not related to Google Trends.
 - [Canceled flights due to coronavirus](https://flowingdata.com/2020/02/21/canceled-flights-due-to-coronavirus/) on Flowing Data.
 - [Misleading or Not? A Chart Showing Coronavirus Fatality Rate (The Process #75)](https://flowingdata.com/2020/02/06/misleading-or-not-a-chart-showing-coronavirus-fatality-rate-the-process-75/) on Flowing Data.
 
-The rest of this post uses Google Trends graphs.
 
 ## Google Trends graphs
 
