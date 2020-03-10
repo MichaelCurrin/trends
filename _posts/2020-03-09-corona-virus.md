@@ -5,15 +5,19 @@ title: Corona virus
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC02/embed_loader.js"></script>
 
-Trends relating the worldwide outbreak of Corona virus in 2020, which started in China.
+Trends relating the worldwide outbreak of Corona virus outbreak of 2019/2020 that started in China. 
 
+This post covers:
 
-## About the outbreak
+- [About](#about) - Info about the virus and outbreak.
+- [Google Trends graphs](#google-trends-graphs) - Comparing the Corona virus to other high-volume searches and to searches for other major diseases.
+
+## About
 
 - [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) on Wikipedia.
 - [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) on Wikipedia.
 
-### Visualizations of coronvirus
+### Visualizations of the coronvirus
 
 A collection of charts about the coronavirus, not related to Google Trends.
 
@@ -24,7 +28,9 @@ A collection of charts about the coronavirus, not related to Google Trends.
 
 The rest of this post uses Google Trends graphs.
 
-## High-volume terms worlwide in 2020
+## Google Trends graphs
+
+### High-volume terms worlwide in 2020
 
 [source](https://trends.google.com/trends/explore?date=2020-01-01%202020-12-31&q=%2Fm%2F01cpyy,%2Fm%2F0d05w3,%2Fm%2F01b_06,%2Fm%2F02y_4q2,corona%20virus%20case)
 
@@ -33,7 +39,7 @@ The rest of this post uses Google Trends graphs.
 <br>
 <br>
 
-## Breakdown by country in 2020
+### Breakdown by country in 2020
 
 [source](https://trends.google.com/trends/explore?date=2020-01-01%202020-12-31,2020-01-01%202020-12-31,2020-01-01%202020-12-31,2020-01-01%202020-12-31,2020-01-01%202020-12-31&geo=CN,CA,AU,IT,CH&q=%2Fm%2F01cpyy,%2Fm%2F01cpyy,%2Fm%2F01cpyy,%2Fm%2F01cpyy,%2Fm%2F01cpyy)
 
@@ -42,7 +48,7 @@ The rest of this post uses Google Trends graphs.
 <br>
 <br>
 
-## Corona vs holidays over the last 5 years
+### Corona vs holidays over the last 5 years
 
 The corona virus has received more attention in Google search volume than the previous Christmas Day.
 
@@ -50,9 +56,9 @@ The corona virus has received more attention in Google search volume than the pr
 
 <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01cpyy","geo":"","time":"today 5-y"},{"keyword":"/m/0200gn","geo":"","time":"today 5-y"},{"keyword":"/m/015h7g","geo":"","time":"today 5-y"},{"keyword":"/m/01vq3","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F01cpyy,%2Fm%2F0200gn,%2Fm%2F015h7g,%2Fm%2F01vq3","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
-## Outbreaks
+### Comparison of outbreaks
 
-### Corona virus vs other major diseases for the last 5 years
+#### Corona virus vs other major diseases for the last 5 years
 
 [source](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01cpyy,%2Fm%2F01byzl,%2Fm%2F0frm3,%2Fm%2F057c6k,%2Fm%2F0g2gb)
 
@@ -61,7 +67,7 @@ The corona virus has received more attention in Google search volume than the pr
 <br>
 <br>
 
-### Other major diseases for the last 5 years
+#### Other major diseases for the last 5 years
 
 Corona virus is removed here as its large values make the others hard to read.
 
@@ -72,10 +78,10 @@ Corona virus is removed here as its large values make the others hard to read.
 <br>
 <br>
 
-### Lists of outbreaks
+#### Lists of outbreaks
 
-For context, this and other medical outbreaks have been documented.
+For context, the Corona virus and other medical outbreaks have been documented here:
 
 - [2020s medical outbreaks](https://en.wikipedia.org/wiki/Category:2020s_medical_outbreaks) on Wikiepdia.
 - [Disease outbreaks by year](https://www.who.int/csr/don/archive/year/en/) on [who.int](www.who.int).
-- [List of epidemics](https://en.wikipedia.org/wiki/List_of_epidemics) on Wikiepdia.
+- [List of epidemics](https://en.wikipedia.org/wiki/List_of_epidemics) on Wikipedia.
