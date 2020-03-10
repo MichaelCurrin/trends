@@ -13,6 +13,17 @@ Trends relating the worldwide outbreak of Corona virus in 2020, which started in
 - [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) on Wikipedia.
 - [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) on Wikipedia.
 
+### Visualizations of coronvirus
+
+A collection of charts about the coronavirus, not related to Google trends.
+
+- [17 responsible live visualizations about the coronavirus, for you to use](https://blog.datawrapper.de/coronaviruscharts/) from the [blog.datawrapper.de] site - found through [link](https://flowingdata.com/2020/03/06/responsible-coronavirus-charts/)
+- Flowing Data
+    - [Flatten the coronavirus curve](https://flowingdata.com/2020/03/09/flatten-the-coronavirus-curve/)
+    - [Canceled flights due to coronavirus](https://flowingdata.com/2020/02/21/canceled-flights-due-to-coronavirus/)
+    - [Misleading or Not? A Chart Showing Coronavirus Fatality Rate (The Process #75)](https://flowingdata.com/2020/02/06/misleading-or-not-a-chart-showing-coronavirus-fatality-rate-the-process-75/)
+
+The rest of this post uses Google Trends graphs.
 
 ## High-volume terms worlwide in 2020
 
