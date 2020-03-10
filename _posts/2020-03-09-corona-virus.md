@@ -10,18 +10,20 @@ Trends relating the worldwide outbreak of Corona virus outbreak of 2019/2020 tha
 This post covers:
 
 - [About](#about) - Info about the virus and outbreak.
+- [Visualizations](#visualizations) - External links where the corona virus outbreak has been visualized.
 - [Google Trends graphs](#google-trends-graphs) - Comparing the Corona virus to other high-volume searches and to searches for other major diseases.
 
 ## About
 
-### Resources
+What is the virus and the outbreak about?
 
 - [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) on Wikipedia.
 - [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) on Wikipedia.
 
-### Visualizations about the coronvirus
 
-A collection of charts about the coronavirus, not related to Google Trends.
+## Visualizations
+
+External links to graphs.
 
 - [17 responsible live visualizations about the coronavirus, for you to use](https://blog.datawrapper.de/coronaviruscharts/) - from the [blog.datawrapper.de](blog.datawrapper.de) site. This was found through this [post](https://flowingdata.com/2020/03/06/responsible-coronavirus-charts/).
 - [Flatten the coronavirus curve](https://flowingdata.com/2020/03/09/flatten-the-coronavirus-curve/) on Flowing Data.
@@ -30,6 +32,8 @@ A collection of charts about the coronavirus, not related to Google Trends.
 
 
 ## Google Trends graphs
+
+Graphs I created around the topic and have embedded here. Each includes a link to the original graph on Google Trends - especially useful for seeing additional data such as map of countries, which cannot be embedded.
 
 ### High-volume terms worlwide in 2020
 
