@@ -34,7 +34,7 @@ Trends relating the worldwide outbreak of Corona virus in 2020, which started in
 
 ## Corona vs holidays over the last 5 years
 
-The corona virus has gotten more attention in Google search results than Christmas Day.
+The corona virus has received more attention in Google search volume than the previous Christmas Day.
 
 [source](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01cpyy,%2Fm%2F0200gn,%2Fm%2F015h7g,%2Fm%2F01vq3)
 
@@ -67,5 +67,5 @@ Corona virus is removed here as its large values make the others hard to read.
 For context, this and other medical outbreaks have been documented.
 
 - [2020s medical outbreaks](https://en.wikipedia.org/wiki/Category:2020s_medical_outbreaks) on Wikiepdia.
-- [Disease outbreaks by year](https://www.who.int/csr/don/archive/year/en/) on _www.who.int_.
+- [Disease outbreaks by year](https://www.who.int/csr/don/archive/year/en/) on [who.int](www.who.int).
 - [List of epidemics](https://en.wikipedia.org/wiki/List_of_epidemics) on Wikiepdia.
