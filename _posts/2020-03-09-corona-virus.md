@@ -5,7 +5,7 @@ title: Corona virus
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC02/embed_loader.js"></script>
 
-Trends relating the worldwide outbreak of Corona virus outbreak of 2019/2020 that started in China. 
+Info relating the worldwide outbreak of the flu-like and sometimes deadly Corona virus outbreak of 2019/2020 that started in China. 
 
 This post covers:
 
@@ -20,6 +20,7 @@ What is the virus and the outbreak about?
 - [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) on Wikipedia.
 - [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) on Wikipedia.
 
+Also known as the Covid 19 coronavirus. Coronavirus is a more general term for viruses but the term has become associated with this specific strain outbreak.
 
 ## Visualizations
 
@@ -29,7 +30,7 @@ External links to graphs.
 - [Flatten the coronavirus curve](https://flowingdata.com/2020/03/09/flatten-the-coronavirus-curve/) on Flowing Data.
 - [Canceled flights due to coronavirus](https://flowingdata.com/2020/02/21/canceled-flights-due-to-coronavirus/) on Flowing Data.
 - [Misleading or Not? A Chart Showing Coronavirus Fatality Rate (The Process #75)](https://flowingdata.com/2020/02/06/misleading-or-not-a-chart-showing-coronavirus-fatality-rate-the-process-75/) on Flowing Data.
-
+- [Corona virus infographic data pack](https://informationisbeautiful.net/2020/covid-19-coronavirus-infographic-data-pack/)
 
 ## Google Trends graphs
 
