@@ -12,6 +12,7 @@ This post covers:
 - [About](#about) - Info about the virus and outbreak.
 - [Visualizations](#visualizations) - External links where the corona virus outbreak has been visualized.
 - [Google Trends graphs](#google-trends-graphs) - Comparing the Corona virus to other high-volume searches and to searches for other major diseases.
+- [News](#news) - Info from news websites.
 
 ## About
 
@@ -22,24 +23,11 @@ What is the virus and the outbreak about?
 
 Also known as the Covid 19 coronavirus. Coronavirus is a more general term for viruses but the term has become associated with this specific strain outbreak.
 
-### News
-
-- [Coronavirus IS a pandemic ...](https://www.dailymail.co.uk/health/article-8101003/World-Health-Organization-says-coronavirus-classed-pandemic.html) on Daily Mail.
-    > - The WHO said it was 'deeply concerned by the alarming levels of spread and severity' of the coronavirus
-    > - A pandemic is the uncontrolled spread of a new disease – more than 100 countries have recorded cases
-    > - Europe is now the centre of the crisis, with growing outbreaks in Italy, Spain, France, Germany and the UK 
-    > - At least 125,000 patients have been infected and 4,000 have died since the outbreak began last December
-    > - The virus has been spreading between humans in four continents since February 28, the WHO has admitted
-- [How dangerous is coronavirus really ...](https://www.dailymail.co.uk/health/article-8076109/Coronavirus-dangerous-symptoms-likely-appear-risk-death.html) on Daily Mail.
-    > - Roughly 14 per cent of people with Covid-19 coronavirus need to go to hospital  
-    > - Some 51,000 people around the world have already recovered from coronavirus 
-    > - Covid-19 is between 10 and 20 times more fatal than the common flu 
-
-
 ## Visualizations
 
-External links to graphs.
+Links to sites with graphs or maps. Some get live updates.
 
+- [Coronavirus COVID-19 dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) including a world map. Found through this [post](https://www.tomsguide.com/news/coronavirus-map), which lists other maps and dashboards.
 - [17 responsible live visualizations about the coronavirus, for you to use](https://blog.datawrapper.de/coronaviruscharts/) - from the [blog.datawrapper.de](blog.datawrapper.de) site. This was found through this [post](https://flowingdata.com/2020/03/06/responsible-coronavirus-charts/).
 - [Flatten the coronavirus curve](https://flowingdata.com/2020/03/09/flatten-the-coronavirus-curve/) on Flowing Data.
 - [Canceled flights due to coronavirus](https://flowingdata.com/2020/02/21/canceled-flights-due-to-coronavirus/) on Flowing Data.
@@ -105,3 +93,24 @@ For context, the Corona virus and other medical outbreaks have been documented h
 - [2020s medical outbreaks](https://en.wikipedia.org/wiki/Category:2020s_medical_outbreaks) on Wikiepdia.
 - [Disease outbreaks by year](https://www.who.int/csr/don/archive/year/en/) on [who.int](www.who.int).
 - [List of epidemics](https://en.wikipedia.org/wiki/List_of_epidemics) on Wikipedia.
+
+
+## News
+
+Lists of articles
+
+- [Corona virus topic](https://www.dailymail.co.uk/news/coronavirus/index.html) on Daily Mail.
+
+Articles
+
+- [Coronavirus: First Western Cape case confirmed, three more await results](https://www.news24.com/SouthAfrica/News/coronavirus-first-western-cape-case-confirmed-three-more-await-results-20200311) on News 24.
+- [Coronavirus IS a pandemic ...](https://www.dailymail.co.uk/health/article-8101003/World-Health-Organization-says-coronavirus-classed-pandemic.html) on Daily Mail.
+    > - The WHO said it was 'deeply concerned by the alarming levels of spread and severity' of the coronavirus
+    > - A pandemic is the uncontrolled spread of a new disease – more than 100 countries have recorded cases
+    > - Europe is now the centre of the crisis, with growing outbreaks in Italy, Spain, France, Germany and the UK 
+    > - At least 125,000 patients have been infected and 4,000 have died since the outbreak began last December
+    > - The virus has been spreading between humans in four continents since February 28, the WHO has admitted
+- [How dangerous is coronavirus really ...](https://www.dailymail.co.uk/health/article-8076109/Coronavirus-dangerous-symptoms-likely-appear-risk-death.html) on Daily Mail.
+    > - Roughly 14 per cent of people with Covid-19 coronavirus need to go to hospital  
+    > - Some 51,000 people around the world have already recovered from coronavirus 
+    > - Covid-19 is between 10 and 20 times more fatal than the common flu 
