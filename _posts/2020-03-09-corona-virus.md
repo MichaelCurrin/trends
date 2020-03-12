@@ -22,6 +22,20 @@ What is the virus and the outbreak about?
 
 Also known as the Covid 19 coronavirus. Coronavirus is a more general term for viruses but the term has become associated with this specific strain outbreak.
 
+### News
+
+- [Coronavirus IS a pandemic ...](https://www.dailymail.co.uk/health/article-8101003/World-Health-Organization-says-coronavirus-classed-pandemic.html) on Daily Mail.
+    > - The WHO said it was 'deeply concerned by the alarming levels of spread and severity' of the coronavirus
+    > - A pandemic is the uncontrolled spread of a new disease – more than 100 countries have recorded cases
+    > - Europe is now the centre of the crisis, with growing outbreaks in Italy, Spain, France, Germany and the UK 
+    > - At least 125,000 patients have been infected and 4,000 have died since the outbreak began last December
+    > - The virus has been spreading between humans in four continents since February 28, the WHO has admitted
+- [How dangerous is coronavirus really ...](https://www.dailymail.co.uk/health/article-8076109/Coronavirus-dangerous-symptoms-likely-appear-risk-death.html) on Daily Mail.
+    > - Roughly 14 per cent of people with Covid-19 coronavirus need to go to hospital  
+    > - Some 51,000 people around the world have already recovered from coronavirus 
+    > - Covid-19 is between 10 and 20 times more fatal than the common flu 
+
+
 ## Visualizations
 
 External links to graphs.
