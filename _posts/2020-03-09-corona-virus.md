@@ -18,12 +18,12 @@ This post covers:
 
 "Coronavirus" is a more general term for viruses but the term has become associated with this specific strain outbreak.
 
-Also known as:
+The 2019-2020 strain is known as:
 
 - Covid-19
 - Novel coronavirus
 - 2019-nCoV
-- SARS CoV-2
+- SARS-CoV-2
 
 What is the virus and the outbreak about? Wikipedia pages:
 
