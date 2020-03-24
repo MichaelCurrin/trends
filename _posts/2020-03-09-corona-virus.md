@@ -16,12 +16,22 @@ This post covers:
 
 ## About
 
-What is the virus and the outbreak about?
+"Coronavirus" is a more general term for viruses but the term has become associated with this specific strain outbreak.
 
-- [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) on Wikipedia.
-- [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) on Wikipedia.
+Also known as:
 
-Also known as the Covid 19 coronavirus. Coronavirus is a more general term for viruses but the term has become associated with this specific strain outbreak.
+- Covid-19
+- Novel coronavirus
+- 2019-nCoV
+- SARS CoV-2
+
+What is the virus and the outbreak about? Wikipedia pages:
+
+- [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus)
+- [Severe acute respiratory syndrome coronavirus 2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2)
+    > This article is about the virus strain that causes COVID-19
+- [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak)
+
 
 ## Visualizations
 
