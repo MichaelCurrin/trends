@@ -5,7 +5,7 @@ title: Corona virus
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC02/embed_loader.js"></script>
 
-Info relating the worldwide outbreak of the flu-like and sometimes deadly Corona virus outbreak of 2019/2020 that started in China. 
+Info relating the worldwide outbreak of the flu-like and sometimes deadly Corona virus outbreak of 2019/2020.
 
 This post covers:
 
@@ -24,6 +24,12 @@ The 2019-2020 strain is known as:
 - Novel coronavirus
 - 2019-nCoV
 - SARS-CoV-2
+
+### Timeline
+
+The outbreak started in China n December 2019, it was spreading internationally at the end of January 2020 and then started growing exponentially in February and March 2020.
+
+### Resources
 
 What is the virus and the outbreak about? Wikipedia pages:
 
@@ -44,15 +50,35 @@ Links to sites with graphs or maps. Some get live updates.
 - [Misleading or Not? A Chart Showing Coronavirus Fatality Rate (The Process #75)](https://flowingdata.com/2020/02/06/misleading-or-not-a-chart-showing-coronavirus-fatality-rate-the-process-75/) on Flowing Data.
 - [Corona virus infographic data pack](https://informationisbeautiful.net/2020/covid-19-coronavirus-infographic-data-pack/)
 
+
 ## Google Trends graphs
 
 Graphs I created around the topic and have embedded here. Each includes a link to the original graph on Google Trends - especially useful for seeing additional data such as map of countries, which cannot be embedded.
 
-### High-volume terms worlwide in 2020
+### Corona virus worlwide in 2020
 
-[source](https://trends.google.com/trends/explore?date=2020-01-01%202020-12-31&q=%2Fm%2F01cpyy,%2Fm%2F0d05w3,%2Fm%2F01b_06,%2Fm%2F02y_4q2,corona%20virus%20case)
+This graph includes the _Coronavirus_ topic which seems to have much higher volume than any explored topics or phrases. There are lot of ways people express this and this seems to cover the concept well.
 
-<script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01cpyy","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"/m/0d05w3","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"/m/01b_06","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"/m/02y_4q2","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"corona virus case","geo":"","time":"2020-01-01 2020-12-31"}],"category":0,"property":""}, {"exploreQuery":"date=2020-01-01%202020-12-31&q=%2Fm%2F01cpyy,%2Fm%2F0d05w3,%2Fm%2F01b_06,%2Fm%2F02y_4q2,corona%20virus%20case","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+As phrases, "covid" is used more than "covid-19", plus there are some other areas that are lower volume and not shown, including a SARS virus topic.
+
+[source](https://trends.google.com/trends/explore?date=2020-01-01%202020-12-31&q=%2Fm%2F01cpyy,covid,covid-19)
+
+<script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01cpyy","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"covid","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"covid-19","geo":"","time":"2020-01-01 2020-12-31"}],"category":0,"property":""}, {"exploreQuery":"date=2020-01-01%202020-12-31&q=%2Fm%2F01cpyy,covid,covid-19","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
+
+<br>
+<br>
+
+### Corona cases 2020
+
+People did searche relating to caes of coronavirus. There are much lower volume than the _Coronavirus_ topic itself but still useful to look at - especially when looking at the country map on Google Trends itself.
+
+[source](https://trends.google.com/trends/explore?date=2020-01-01%202020-12-31&q=corona%20virus%20case,case%20of%20corona%20virus,first%20case%20of%20corona%20virus)
+
+<script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"corona virus case","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"case of corona virus","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"first case of corona virus","geo":"","time":"2020-01-01 2020-12-31"}],"category":0,"property":""}, {"exploreQuery":"date=2020-01-01%202020-12-31&q=corona%20virus%20case,case%20of%20corona%20virus,first%20case%20of%20corona%20virus","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
 
 <br>
 <br>
@@ -68,11 +94,35 @@ Graphs I created around the topic and have embedded here. Each includes a link t
 
 ### Corona vs holidays over the last 5 years
 
-The corona virus has received more attention in Google search volume than the previous Christmas Day.
+The corona virus has received more attention in Google search volume than the previous Christmas Day and some other major  annual international events.
 
 [source](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01cpyy,%2Fm%2F0200gn,%2Fm%2F015h7g,%2Fm%2F01vq3)
 
-<script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01cpyy","geo":"","time":"today 5-y"},{"keyword":"/m/0200gn","geo":"","time":"today 5-y"},{"keyword":"/m/015h7g","geo":"","time":"today 5-y"},{"keyword":"/m/01vq3","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F01cpyy,%2Fm%2F0200gn,%2Fm%2F015h7g,%2Fm%2F01vq3","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+<script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01cpyy","geo":"","time":"today 5-y"},{"keyword":"/m/0200gn","geo":"","time":"today 5-y"},{"keyword":"/m/015h7g","geo":"","time":"today 5-y"},{"keyword":"/m/01vq3","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F01cpyy,%2Fm%2F0200gn,%2Fm%2F015h7g,%2Fm%2F01vq3","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+<br>
+<br>
+
+### Quarantine
+
+As the virus spreads, people and countries started implementing quantines, lockdowns and "social distancing" to contain the pandemic.
+
+[source](https://trends.google.com/trends/explore?date=2020-01-01%202020-12-31&q=%2Fm%2F07l88z,stay%20at%20home,stay%20home,stay%20at%20home%20order,%2Fm%2F069q9)
+
+<script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/07l88z","geo":"","time":"today 3-m"},{"keyword":"/m/069q9","geo":"","time":"today 3-m"},{"keyword":"stay home","geo":"","time":"today 3-m"},{"keyword":"/g/11c7s5skh1","geo":"","time":"today 3-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%203-m&q=%2Fm%2F07l88z,%2Fm%2F069q9,stay%20home,%2Fg%2F11c7s5skh1","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
+
+However, the attention to those topics is significantly lower than for the _Coronavirus_ topic, shown below for comparison.
+
+[source](https://trends.google.com/trends/explore?date=today%203-m&q=%2Fm%2F07l88z,%2Fm%2F069q9,stay%20home,%2Fg%2F11c7s5skh1,%2Fm%2F01cpyy)
+
+<script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/07l88z","geo":"","time":"today 3-m"},{"keyword":"/m/069q9","geo":"","time":"today 3-m"},{"keyword":"stay home","geo":"","time":"today 3-m"},{"keyword":"/g/11c7s5skh1","geo":"","time":"today 3-m"},{"keyword":"/m/01cpyy","geo":"","time":"today 3-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%203-m&q=%2Fm%2F07l88z,%2Fm%2F069q9,stay%20home,%2Fg%2F11c7s5skh1,%2Fm%2F01cpyy","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
+
+<br>
+<br>
 
 ### Comparison of outbreaks
 
