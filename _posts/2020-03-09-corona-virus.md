@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Corona virus
+title: Coronavirus / Covid-19
 ---
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC02/embed_loader.js"></script>
 
-Info relating the worldwide outbreak of the flu-like and sometimes deadly Corona virus outbreak of 2019/2020.
+Info relating the worldwide outbreak of the flu-like and sometimes deadly Coronavirus outbreak of 2019/2020.
 
 This post covers:
 
@@ -25,9 +25,12 @@ The 2019-2020 strain is known as:
 - 2019-nCoV
 - SARS-CoV-2
 
+
 ### Timeline
 
-The outbreak started in China n December 2019, it was spreading internationally at the end of January 2020 and then started growing exponentially in February and March 2020.
+- The outbreak started in China in December 2019.
+- It was spreading internationally at the end of January 2020.
+- It started growing exponentially in February and March 2020.
 
 ### Resources
 
@@ -55,7 +58,7 @@ Links to sites with graphs or maps. Some get live updates.
 
 Graphs I created around the topic and have embedded here. Each includes a link to the original graph on Google Trends - especially useful for seeing additional data such as map of countries, which cannot be embedded.
 
-### Corona virus worlwide in 2020
+### Coronavirus worlwide in 2020
 
 This graph includes the _Coronavirus_ topic which seems to have much higher volume than any explored topics or phrases. There are lot of ways people express this and this seems to cover the concept well.
 
@@ -70,14 +73,28 @@ As phrases, "covid" is used more than "covid-19", plus there are some other area
 <br>
 <br>
 
-### Corona cases 2020
+### Coronavirus cases 2020
 
-People did searche relating to caes of coronavirus. There are much lower volume than the _Coronavirus_ topic itself but still useful to look at - especially when looking at the country map on Google Trends itself.
+People did searches relating to case of coronavirus. There are much lower volume than the _Coronavirus_ topic itself but still useful to look at - especially when looking at the country map on Google Trends itself.
 
 [source](https://trends.google.com/trends/explore?date=2020-01-01%202020-12-31&q=corona%20virus%20case,case%20of%20corona%20virus,first%20case%20of%20corona%20virus)
 
 <script type="text/javascript">
     trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"corona virus case","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"case of corona virus","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"first case of corona virus","geo":"","time":"2020-01-01 2020-12-31"}],"category":0,"property":""}, {"exploreQuery":"date=2020-01-01%202020-12-31&q=corona%20virus%20case,case%20of%20corona%20virus,first%20case%20of%20corona%20virus","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
+
+<br>
+<br>
+
+
+### Coronavirus deaths in 2020
+
+Although much lower volume than _Coronavirus_ topic, the deaths relating to the virus are getting more attention in searches from March onwards especially.
+
+[source](https://trends.google.com/trends/explore?date=2020-01-01%202020-12-31&q=corona%20death,coronavirus%20death,corona%20virus%20death)
+
+<script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"corona death","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"coronavirus death","geo":"","time":"2020-01-01 2020-12-31"},{"keyword":"corona virus death","geo":"","time":"2020-01-01 2020-12-31"}],"category":0,"property":""}, {"exploreQuery":"date=2020-01-01%202020-12-31&q=corona%20death,coronavirus%20death,corona%20virus%20death","guestPath":"https://trends.google.com:443/trends/embed/"});
   </script>
 
 <br>
@@ -92,9 +109,10 @@ People did searche relating to caes of coronavirus. There are much lower volume 
 <br>
 <br>
 
-### Corona vs holidays over the last 5 years
 
-The corona virus has received more attention in Google search volume than the previous Christmas Day and some other major  annual international events.
+### Coronavirus vs holidays over the last 5 years
+
+The Coronavirus has received more attention in Google search volume than the previous Christmas Day and some other major  annual international events.
 
 [source](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01cpyy,%2Fm%2F0200gn,%2Fm%2F015h7g,%2Fm%2F01vq3)
 
@@ -124,9 +142,10 @@ However, the attention to those topics is significantly lower than for the _Coro
 <br>
 <br>
 
+
 ### Comparison of outbreaks
 
-#### Corona virus vs other major diseases for the last 5 years
+#### Coronavirus vs other major diseases for the last 5 years
 
 [source](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01cpyy,%2Fm%2F01byzl,%2Fm%2F0frm3,%2Fm%2F057c6k,%2Fm%2F0g2gb)
 
