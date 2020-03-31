@@ -14,6 +14,7 @@ This post covers:
 - [Google Trends graphs](#google-trends-graphs) - Comparing the Corona virus to other high-volume searches and to searches for other major diseases.
 - [News](#news) - Info from news websites.
 
+
 ## About
 
 "Coronavirus" is a more general term for viruses but the term has become associated with this specific strain outbreak.
@@ -52,7 +53,7 @@ Links to sites with graphs or maps. Some get live updates.
 - [Canceled flights due to coronavirus](https://flowingdata.com/2020/02/21/canceled-flights-due-to-coronavirus/) on Flowing Data.
 - [Misleading or Not? A Chart Showing Coronavirus Fatality Rate (The Process #75)](https://flowingdata.com/2020/02/06/misleading-or-not-a-chart-showing-coronavirus-fatality-rate-the-process-75/) on Flowing Data.
 - [Corona virus infographic data pack](https://informationisbeautiful.net/2020/covid-19-coronavirus-infographic-data-pack/)
-
+- [Corona in Africa article with graphs](https://issafrica.org/iss-today/replicating-global-responses-to-covid-19-may-not-work-for-africa)
 
 ## Google Trends graphs
 
