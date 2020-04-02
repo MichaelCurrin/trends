@@ -41,6 +41,7 @@ What is the virus and the outbreak about? Wikipedia pages:
 - [Severe acute respiratory syndrome coronavirus 2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2)
     > This article is about the virus strain that causes COVID-19
 - [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak)
+- [Coronavirus disease](https://g.co/kgs/TwYxc1) info on Google including symptoms and health advice.
 
 
 ## Visualizations
@@ -121,6 +122,7 @@ The Coronavirus has received more attention in Google search volume than the pre
 
 <br>
 <br>
+
 
 ### Quarantine
 
