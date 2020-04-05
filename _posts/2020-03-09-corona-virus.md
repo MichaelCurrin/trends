@@ -49,7 +49,8 @@ What is the virus and the outbreak about? Wikipedia pages:
 Links to sites with graphs or maps. Some get live updates.
 
 - [Coronavirus COVID-19 dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) including a world map. Found through this [post](https://www.tomsguide.com/news/coronavirus-map), which lists other maps and dashboards.
-- [17 responsible live visualizations about the coronavirus, for you to use](https://blog.datawrapper.de/coronaviruscharts/) - from the [blog.datawrapper.de](blog.datawrapper.de) site. This was found through this [post](https://flowingdata.com/2020/03/06/responsible-coronavirus-charts/).
+- [Corona tracking](https://infographics.channelnewsasia.com/covid-19/map.html) - world map
+- [17 responsible live charts about the coronavirus, for you to use](https://blog.datawrapper.de/coronaviruscharts/) - from the [blog.datawrapper.de](blog.datawrapper.de) site. This was found through this [post](https://flowingdata.com/2020/03/06/responsible-coronavirus-charts/).
 - [Flatten the coronavirus curve](https://flowingdata.com/2020/03/09/flatten-the-coronavirus-curve/) on Flowing Data.
 - [Canceled flights due to coronavirus](https://flowingdata.com/2020/02/21/canceled-flights-due-to-coronavirus/) on Flowing Data.
 - [Misleading or Not? A Chart Showing Coronavirus Fatality Rate (The Process #75)](https://flowingdata.com/2020/02/06/misleading-or-not-a-chart-showing-coronavirus-fatality-rate-the-process-75/) on Flowing Data.
