@@ -41,8 +41,16 @@ What is the virus and the outbreak about? Wikipedia pages:
 - [Severe acute respiratory syndrome coronavirus 2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2)
     > This article is about the virus strain that causes COVID-19
 - [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak)
-- [Coronavirus disease](https://g.co/kgs/TwYxc1) info on Google including symptoms and health advice.
+- [Pandemic data](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data) - table of data by country.
+    - [South Africa](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Africa)
+    
+Other:
 
+- [Coronavirus disease](https://g.co/kgs/TwYxc1) info on Google including symptoms and health advice.
+- [Google News](https://news.google.com/covid19/map) worldwide map and stats, with option to select country.
+- South Africa
+    - [Coronapp](https://www.news.uct.ac.za/article/-2020-03-20-uct-alumni-build-coronapp-platform)
+    - Google search for "corona stats south africa". You'll get some tabs on the left such as to show a graph over time,
 
 ## Visualizations
 
