@@ -51,7 +51,9 @@ Other:
 - South Africa
     - [Coronapp](https://www.news.uct.ac.za/article/-2020-03-20-uct-alumni-build-coronapp-platform)
     - Google search for "corona stats south africa". You'll get some tabs on the left such as to show a graph over time,
-    - [Corona Western Cape](https://coronavirus.westerncape.gov.za/)
+    - Corona Western Cape
+        - [Homepage](https://coronavirus.westerncape.gov.za/)
+        - [Dashboard](https://coronavirus.westerncape.gov.za/covid-19-dashboard?)
         - [Update 1 May 2020](https://coronavirus.westerncape.gov.za/news/update-coronavirus-premier-alan-winde-1-may)
         
 ## Visualizations
