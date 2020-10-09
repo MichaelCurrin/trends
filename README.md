@@ -1,11 +1,16 @@
 # Trends
 > Time series dashboard of trends around web searches, social media and economic indicators.
 
-[![Made with Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-blue.svg)](https://jekyllrb.com)
+[![Made with Jekyll](https://img.shields.io/badge/jekyll-3.9-blue?logo=jekyll)](https://jekyllrb.com)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/trends.svg)](https://GitHub.com/MichaelCurrin/trends/tags/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/trends/blob/master/LICENSE)
 
-- Project website: [michaelcurrin.github.io/trends/](https://michaelcurrin.github.io/trends/)
+<div align="center">
+
+[![View site - GH Pages](https://img.shields.io/badge/GH_Pages-Project_site-green?style=for-the-badge)](https://michaelcurrin.github.io/trends/)
+
+</div>
+
 
 ## Contribute
 
@@ -14,6 +19,7 @@
 Follow the [Google Trends](#google-trends) section below to do a search. Then send the URL from the address bar to me so I can tweak it and then embed graphs as a post.
 
 <!-- TODO For future development, this will be easier to do using Pull Requests and a CMS. -->
+
 
 ## Data sources
 
