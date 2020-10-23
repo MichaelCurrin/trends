@@ -1,12 +1,10 @@
-help:
+h help:
 	@egrep '^\S|^$$' Makefile
 
 
 install:
-	bundle install --path vendor/bundle
-
-upgrade:
-	bundle update
+	bundle config set --local path vendor/bundle
+	bundle install
 
 
 # Serve on the root without using livereload (as this conflicts with the Jekyll Manager plugin).
@@ -15,15 +13,12 @@ a admin:
 
 # Serve on subpath, as on Github Pages project site.
 s serve:
-	bundle exec jekyll serve --livereload
+	bundle exec jekyll serve
 
 # Serve on root, as on Github Pages user site or Netlify.
 r serve-root:
-	bundle exec jekyll serve --baseurl '' --livereload
+	bundle exec jekyll serve --baseurl '' #--livereload
 
 
 build:
-	bundle exec jekyll build
-
-build-prod:
-	JEKYLL_ENV=production bundle exec jekyll build
+	JEKYLL_ENV=production bundle exec jekyll build --trace
