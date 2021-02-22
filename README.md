@@ -1,13 +1,15 @@
 # Trends
 > Time series dashboard of trends around web searches, social media and economic indicators.
 
-[![Made with Jekyll](https://img.shields.io/badge/jekyll-3.9-blue?logo=jekyll)](https://jekyllrb.com)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/trends.svg)](https://GitHub.com/MichaelCurrin/trends/tags/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/trends/blob/master/LICENSE)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/badge-generator?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/badge-generator/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+[![Made with Jekyll](https://img.shields.io/badge/Jekyll-3.9-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
+
 
 <div align="center">
 
-[![View site - GH Pages](https://img.shields.io/badge/GH_Pages-Project_site-green?style=for-the-badge)](https://michaelcurrin.github.io/trends/)
+[![View site - GH Pages](https://img.shields.io/badge/GH_Pages-Project_site-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/trends/)
 
 </div>
 
@@ -68,4 +70,4 @@ See below for a example of embedded data snippet for "Interest over Time" widget
 
 ## License
 
-Released under [MIT](/LICENSE).
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
