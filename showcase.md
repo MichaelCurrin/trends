@@ -1,6 +1,5 @@
 ---
 title: Showcase
-layout: page
 ---
 
 All 3 data sources of this project shown together.

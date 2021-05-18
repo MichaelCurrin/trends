@@ -20,6 +20,15 @@ header_pages:
   - "showcase.md"
   - "blog.md"
 
+defaults:
+  - path: ""
+    type: "post"
+    values:
+      layout: post
+  - path: ""
+    values:
+      layout: page
+
 exclude:
   - vendor/
   - LICENSE

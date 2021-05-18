@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Coronavirus / Covid-19
 ---
 
@@ -43,7 +42,7 @@ What is the virus and the outbreak about? Wikipedia pages:
 - [2019–20 coronavirus outbreak](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak)
 - [Pandemic data](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data) - table of data by country.
     - [South Africa](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Africa)
-    
+
 Other:
 
 - [Coronavirus disease](https://g.co/kgs/TwYxc1) info on Google including symptoms and health advice.
@@ -55,7 +54,7 @@ Other:
         - [Homepage](https://coronavirus.westerncape.gov.za/)
         - [Dashboard](https://coronavirus.westerncape.gov.za/covid-19-dashboard?)
         - [Update 1 May 2020](https://coronavirus.westerncape.gov.za/news/update-coronavirus-premier-alan-winde-1-may)
-        
+
 ## Visualizations
 
 Links to sites with graphs or maps. Some get live updates.
@@ -176,7 +175,7 @@ Corona virus is removed here as its large values make the others hard to read.
 
 [source](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01byzl,%2Fm%2F0frm3,%2Fm%2F057c6k,%2Fm%2F0g2gb)
 
-<script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01byzl","geo":"","time":"today 5-y"},{"keyword":"/m/0frm3","geo":"","time":"today 5-y"},{"keyword":"/m/057c6k","geo":"","time":"today 5-y"},{"keyword":"/m/0g2gb","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F01byzl,%2Fm%2F0frm3,%2Fm%2F057c6k,%2Fm%2F0g2gb","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+<script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01byzl","geo":"","time":"today 5-y"},{"keyword":"/m/0frm3","geo":"","time":"today 5-y"},{"keyword":"/m/057c6k","geo":"","time":"today 5-y"},{"keyword":"/m/0g2gb","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F01byzl,%2Fm%2F0frm3,%2Fm%2F057c6k,%2Fm%2F0g2gb","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
 <br>
 <br>
@@ -202,10 +201,10 @@ Articles
 - [Coronavirus IS a pandemic ...](https://www.dailymail.co.uk/health/article-8101003/World-Health-Organization-says-coronavirus-classed-pandemic.html) on Daily Mail.
     > - The WHO said it was 'deeply concerned by the alarming levels of spread and severity' of the coronavirus
     > - A pandemic is the uncontrolled spread of a new disease – more than 100 countries have recorded cases
-    > - Europe is now the centre of the crisis, with growing outbreaks in Italy, Spain, France, Germany and the UK 
+    > - Europe is now the centre of the crisis, with growing outbreaks in Italy, Spain, France, Germany and the UK
     > - At least 125,000 patients have been infected and 4,000 have died since the outbreak began last December
     > - The virus has been spreading between humans in four continents since February 28, the WHO has admitted
 - [How dangerous is coronavirus really ...](https://www.dailymail.co.uk/health/article-8076109/Coronavirus-dangerous-symptoms-likely-appear-risk-death.html) on Daily Mail.
-    > - Roughly 14 per cent of people with Covid-19 coronavirus need to go to hospital  
-    > - Some 51,000 people around the world have already recovered from coronavirus 
-    > - Covid-19 is between 10 and 20 times more fatal than the common flu 
+    > - Roughly 14 per cent of people with Covid-19 coronavirus need to go to hospital
+    > - Some 51,000 people around the world have already recovered from coronavirus
+    > - Covid-19 is between 10 and 20 times more fatal than the common flu

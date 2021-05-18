@@ -1,6 +1,5 @@
 ---
 title: GetSmarter
-layout: post
 ---
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2051_RC11/embed_loader.js"></script>
