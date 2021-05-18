@@ -1,5 +1,5 @@
 # Trends
-> Time series dashboard of trends around web searches, social media and economic indicators.
+> Graphs of trends around web searches, social media and economic indicators
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/badge-generator?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/badge-generator/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
@@ -63,7 +63,7 @@ See below for a example of embedded data snippet for "Interest over Time" widget
     <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"foo","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=foo","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
     ```
 - Static data. This fixes the date range. e.g. `2015-01-07 2020-01-07`
-    ```html 
+    ```html
     <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2051_RC11/embed_loader.js"></script>
     <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"foo","geo":"","time":"2015-01-07 2020-01-07"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=foo","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
     ```
