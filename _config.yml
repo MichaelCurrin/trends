@@ -26,4 +26,3 @@ exclude:
   - Makefile
   - README.md
   - Gemfile
-  - Gemfile.lock
